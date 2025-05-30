@@ -1,0 +1,47 @@
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.Dominio\bin\Debug\net8.0\123Vago.Dominio.deps.json
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.Dominio\bin\Debug\net8.0\123Vago.Dominio.dll
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.Dominio\bin\Debug\net8.0\123Vago.Dominio.pdb
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.Dominio\obj\Debug\net8.0\123Vago.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.Dominio\obj\Debug\net8.0\123Vago.Dominio.AssemblyInfoInputs.cache
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.Dominio\obj\Debug\net8.0\123Vago.Dominio.AssemblyInfo.cs
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.Dominio\obj\Debug\net8.0\123Vago.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.Dominio\obj\Debug\net8.0\123Vago.Dominio.dll
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.Dominio\obj\Debug\net8.0\refint\123Vago.Dominio.dll
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.Dominio\obj\Debug\net8.0\123Vago.Dominio.pdb
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.Dominio\obj\Debug\net8.0\ref\123Vago.Dominio.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.Dominio\bin\Debug\net8.0\123Vago.Dominio.deps.json
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.Dominio\bin\Debug\net8.0\123Vago.Dominio.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.Dominio\bin\Debug\net8.0\123Vago.Dominio.pdb
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.Dominio\obj\Debug\net8.0\123Vago.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.Dominio\obj\Debug\net8.0\123Vago.Dominio.AssemblyInfoInputs.cache
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.Dominio\obj\Debug\net8.0\123Vago.Dominio.AssemblyInfo.cs
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.Dominio\obj\Debug\net8.0\123Vago.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.Dominio\obj\Debug\net8.0\123Vago.Dominio.sourcelink.json
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.Dominio\obj\Debug\net8.0\123Vago.Dominio.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.Dominio\obj\Debug\net8.0\refint\123Vago.Dominio.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.Dominio\obj\Debug\net8.0\123Vago.Dominio.pdb
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.Dominio\obj\Debug\net8.0\ref\123Vago.Dominio.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.Dominio\bin\Debug\net8.0\123Vago.Dominio.deps.json
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.Dominio\bin\Debug\net8.0\123Vago.Dominio.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.Dominio\bin\Debug\net8.0\123Vago.Dominio.pdb
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.Dominio\obj\Debug\net8.0\123Vago.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.Dominio\obj\Debug\net8.0\123Vago.Dominio.AssemblyInfoInputs.cache
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.Dominio\obj\Debug\net8.0\123Vago.Dominio.AssemblyInfo.cs
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.Dominio\obj\Debug\net8.0\123Vago.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.Dominio\obj\Debug\net8.0\123Vago.Dominio.sourcelink.json
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.Dominio\obj\Debug\net8.0\123Vago.Dominio.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.Dominio\obj\Debug\net8.0\refint\123Vago.Dominio.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.Dominio\obj\Debug\net8.0\123Vago.Dominio.pdb
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.Dominio\obj\Debug\net8.0\ref\123Vago.Dominio.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.Dominio\bin\Debug\net8.0\123Vago.Dominio.deps.json
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.Dominio\bin\Debug\net8.0\123Vago.Dominio.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.Dominio\bin\Debug\net8.0\123Vago.Dominio.pdb
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.Dominio\obj\Debug\net8.0\123Vago.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.Dominio\obj\Debug\net8.0\123Vago.Dominio.AssemblyInfoInputs.cache
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.Dominio\obj\Debug\net8.0\123Vago.Dominio.AssemblyInfo.cs
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.Dominio\obj\Debug\net8.0\123Vago.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.Dominio\obj\Debug\net8.0\123Vago.Dominio.sourcelink.json
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.Dominio\obj\Debug\net8.0\123Vago.Dominio.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.Dominio\obj\Debug\net8.0\refint\123Vago.Dominio.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.Dominio\obj\Debug\net8.0\123Vago.Dominio.pdb
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.Dominio\obj\Debug\net8.0\ref\123Vago.Dominio.dll

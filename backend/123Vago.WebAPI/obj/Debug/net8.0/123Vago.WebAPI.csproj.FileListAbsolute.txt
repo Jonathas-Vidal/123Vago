@@ -1,0 +1,219 @@
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.WebAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.WebAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.WebAPI\bin\Debug\net8.0\123Vago.WebAPI.staticwebassets.endpoints.json
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.WebAPI\bin\Debug\net8.0\123Vago.WebAPI.exe
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.WebAPI\bin\Debug\net8.0\123Vago.WebAPI.deps.json
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.WebAPI\bin\Debug\net8.0\123Vago.WebAPI.runtimeconfig.json
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.WebAPI\bin\Debug\net8.0\123Vago.WebAPI.dll
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.WebAPI\bin\Debug\net8.0\123Vago.WebAPI.pdb
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.WebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.WebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.WebAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.WebAPI\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.WebAPI\bin\Debug\net8.0\123Vago.Dominio.dll
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.WebAPI\bin\Debug\net8.0\123Vago.Repositorio.dll
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.WebAPI\bin\Debug\net8.0\123Vago.Servico.dll
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.WebAPI\bin\Debug\net8.0\123Vago.Servico.pdb
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.WebAPI\bin\Debug\net8.0\123Vago.Dominio.pdb
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.WebAPI\bin\Debug\net8.0\123Vago.Repositorio.pdb
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.WebAPI\obj\Debug\net8.0\123Vago.WebAPI.csproj.AssemblyReference.cache
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.WebAPI\obj\Debug\net8.0\123Vago.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.WebAPI\obj\Debug\net8.0\123Vago.WebAPI.AssemblyInfoInputs.cache
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.WebAPI\obj\Debug\net8.0\123Vago.WebAPI.AssemblyInfo.cs
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.WebAPI\obj\Debug\net8.0\123Vago.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.WebAPI\obj\Debug\net8.0\123Vago.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.WebAPI\obj\Debug\net8.0\123Vago.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.WebAPI\obj\Debug\net8.0\scopedcss\bundle\123Vago.WebAPI.styles.css
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.WebAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.WebAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.WebAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.123Vago.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.123Vago.WebAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.123Vago.WebAPI.props
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.123Vago.WebAPI.props
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.123Vago.WebAPI.props
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.WebAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.WebAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.WebAPI\obj\Debug\net8.0\123Vago..7D6F6922.Up2Date
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.WebAPI\obj\Debug\net8.0\123Vago.WebAPI.dll
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.WebAPI\obj\Debug\net8.0\refint\123Vago.WebAPI.dll
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.WebAPI\obj\Debug\net8.0\123Vago.WebAPI.pdb
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.WebAPI\obj\Debug\net8.0\123Vago.WebAPI.genruntimeconfig.cache
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.WebAPI\obj\Debug\net8.0\ref\123Vago.WebAPI.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.WebAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.WebAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.WebAPI\bin\Debug\net8.0\123Vago.WebAPI.staticwebassets.endpoints.json
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.WebAPI\bin\Debug\net8.0\123Vago.WebAPI.exe
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.WebAPI\bin\Debug\net8.0\123Vago.WebAPI.deps.json
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.WebAPI\bin\Debug\net8.0\123Vago.WebAPI.runtimeconfig.json
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.WebAPI\bin\Debug\net8.0\123Vago.WebAPI.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.WebAPI\bin\Debug\net8.0\123Vago.WebAPI.pdb
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.WebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.WebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.WebAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.WebAPI\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.WebAPI\bin\Debug\net8.0\123Vago.Dominio.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.WebAPI\bin\Debug\net8.0\123Vago.Repositorio.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.WebAPI\bin\Debug\net8.0\123Vago.Servico.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.WebAPI\bin\Debug\net8.0\123Vago.Servico.pdb
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.WebAPI\bin\Debug\net8.0\123Vago.Dominio.pdb
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.WebAPI\bin\Debug\net8.0\123Vago.Repositorio.pdb
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.WebAPI\obj\Debug\net8.0\123Vago.WebAPI.csproj.AssemblyReference.cache
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.WebAPI\obj\Debug\net8.0\123Vago.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.WebAPI\obj\Debug\net8.0\123Vago.WebAPI.AssemblyInfoInputs.cache
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.WebAPI\obj\Debug\net8.0\123Vago.WebAPI.AssemblyInfo.cs
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.WebAPI\obj\Debug\net8.0\123Vago.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.WebAPI\obj\Debug\net8.0\123Vago.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.WebAPI\obj\Debug\net8.0\123Vago.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.WebAPI\obj\Debug\net8.0\123Vago.WebAPI.sourcelink.json
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.WebAPI\obj\Debug\net8.0\scopedcss\bundle\123Vago.WebAPI.styles.css
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.WebAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.WebAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.WebAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.123Vago.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.123Vago.WebAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.123Vago.WebAPI.props
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.123Vago.WebAPI.props
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.123Vago.WebAPI.props
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.WebAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.WebAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.WebAPI\obj\Debug\net8.0\123Vago..7D6F6922.Up2Date
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.WebAPI\obj\Debug\net8.0\123Vago.WebAPI.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.WebAPI\obj\Debug\net8.0\refint\123Vago.WebAPI.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.WebAPI\obj\Debug\net8.0\123Vago.WebAPI.pdb
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.WebAPI\obj\Debug\net8.0\123Vago.WebAPI.genruntimeconfig.cache
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.WebAPI\obj\Debug\net8.0\ref\123Vago.WebAPI.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.WebAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.WebAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.WebAPI\bin\Debug\net8.0\123Vago.WebAPI.staticwebassets.endpoints.json
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.WebAPI\bin\Debug\net8.0\123Vago.WebAPI.exe
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.WebAPI\bin\Debug\net8.0\123Vago.WebAPI.deps.json
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.WebAPI\bin\Debug\net8.0\123Vago.WebAPI.runtimeconfig.json
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.WebAPI\bin\Debug\net8.0\123Vago.WebAPI.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.WebAPI\bin\Debug\net8.0\123Vago.WebAPI.pdb
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.WebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.WebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.WebAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.WebAPI\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.WebAPI\bin\Debug\net8.0\123Vago.Dominio.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.WebAPI\bin\Debug\net8.0\123Vago.Repositorio.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.WebAPI\bin\Debug\net8.0\123Vago.Servico.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.WebAPI\bin\Debug\net8.0\123Vago.Servico.pdb
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.WebAPI\bin\Debug\net8.0\123Vago.Dominio.pdb
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.WebAPI\bin\Debug\net8.0\123Vago.Repositorio.pdb
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.WebAPI\obj\Debug\net8.0\123Vago.WebAPI.csproj.AssemblyReference.cache
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.WebAPI\obj\Debug\net8.0\123Vago.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.WebAPI\obj\Debug\net8.0\123Vago.WebAPI.AssemblyInfoInputs.cache
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.WebAPI\obj\Debug\net8.0\123Vago.WebAPI.AssemblyInfo.cs
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.WebAPI\obj\Debug\net8.0\123Vago.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.WebAPI\obj\Debug\net8.0\123Vago.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.WebAPI\obj\Debug\net8.0\123Vago.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.WebAPI\obj\Debug\net8.0\123Vago.WebAPI.sourcelink.json
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.WebAPI\obj\Debug\net8.0\scopedcss\bundle\123Vago.WebAPI.styles.css
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.WebAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.WebAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.WebAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.123Vago.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.123Vago.WebAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.123Vago.WebAPI.props
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.123Vago.WebAPI.props
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.123Vago.WebAPI.props
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.WebAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.WebAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.WebAPI\obj\Debug\net8.0\123Vago..7D6F6922.Up2Date
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.WebAPI\obj\Debug\net8.0\123Vago.WebAPI.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.WebAPI\obj\Debug\net8.0\refint\123Vago.WebAPI.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.WebAPI\obj\Debug\net8.0\123Vago.WebAPI.pdb
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.WebAPI\obj\Debug\net8.0\123Vago.WebAPI.genruntimeconfig.cache
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.WebAPI\obj\Debug\net8.0\ref\123Vago.WebAPI.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.WebAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.WebAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.WebAPI\bin\Debug\net8.0\123Vago.WebAPI.staticwebassets.endpoints.json
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.WebAPI\bin\Debug\net8.0\123Vago.WebAPI.exe
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.WebAPI\bin\Debug\net8.0\123Vago.WebAPI.deps.json
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.WebAPI\bin\Debug\net8.0\123Vago.WebAPI.runtimeconfig.json
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.WebAPI\bin\Debug\net8.0\123Vago.WebAPI.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.WebAPI\bin\Debug\net8.0\123Vago.WebAPI.pdb
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.WebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.WebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.WebAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.WebAPI\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.WebAPI\bin\Debug\net8.0\123Vago.Dominio.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.WebAPI\bin\Debug\net8.0\123Vago.Repositorio.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.WebAPI\bin\Debug\net8.0\123Vago.Servico.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.WebAPI\bin\Debug\net8.0\123Vago.Servico.pdb
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.WebAPI\bin\Debug\net8.0\123Vago.Dominio.pdb
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.WebAPI\bin\Debug\net8.0\123Vago.Repositorio.pdb
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.WebAPI\obj\Debug\net8.0\123Vago.WebAPI.csproj.AssemblyReference.cache
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.WebAPI\obj\Debug\net8.0\123Vago.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.WebAPI\obj\Debug\net8.0\123Vago.WebAPI.AssemblyInfoInputs.cache
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.WebAPI\obj\Debug\net8.0\123Vago.WebAPI.AssemblyInfo.cs
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.WebAPI\obj\Debug\net8.0\123Vago.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.WebAPI\obj\Debug\net8.0\123Vago.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.WebAPI\obj\Debug\net8.0\123Vago.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.WebAPI\obj\Debug\net8.0\123Vago.WebAPI.sourcelink.json
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.WebAPI\obj\Debug\net8.0\scopedcss\bundle\123Vago.WebAPI.styles.css
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.WebAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.WebAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.WebAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.123Vago.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.123Vago.WebAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.123Vago.WebAPI.props
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.123Vago.WebAPI.props
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.123Vago.WebAPI.props
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.WebAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.WebAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.WebAPI\obj\Debug\net8.0\123Vago..7D6F6922.Up2Date
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.WebAPI\obj\Debug\net8.0\123Vago.WebAPI.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.WebAPI\obj\Debug\net8.0\refint\123Vago.WebAPI.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.WebAPI\obj\Debug\net8.0\123Vago.WebAPI.pdb
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.WebAPI\obj\Debug\net8.0\123Vago.WebAPI.genruntimeconfig.cache
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.WebAPI\obj\Debug\net8.0\ref\123Vago.WebAPI.dll

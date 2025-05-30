@@ -1,0 +1,35 @@
+# ========== BACKEND (.NET) ==========
+backend/bin/
+backend/obj/
+backend/.vs/
+backend/TestResults/
+backend/*.user
+backend/*.suo
+backend/*.cache
+backend/*.pdb
+backend/*.dbmdl
+backend/*.log
+backend/*.tmp
+backend/.vscode/
+backend/.idea/
+
+# ========== FRONTEND (Angular) ==========
+frontend/sistema-hotel/node_modules/
+frontend/sistema-hotel/dist/
+frontend/sistema-hotel/.angular/
+frontend/sistema-hotel/.env
+frontend/sistema-hotel/.env.*
+
+# ========== SISTEMA OPERACIONAL & GERAL ==========
+*.DS_Store
+Thumbs.db
+*.log
+*.bak
+*.old
+*.swp
+*.tmp
+
+# ========== GLOBAL IDE ==========
+.idea/
+.vscode/
+*.code-workspace

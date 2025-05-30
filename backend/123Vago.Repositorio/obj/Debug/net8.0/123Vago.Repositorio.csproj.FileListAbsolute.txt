@@ -1,0 +1,63 @@
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.Repositorio\bin\Debug\net8.0\123Vago.Repositorio.deps.json
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.Repositorio\bin\Debug\net8.0\123Vago.Repositorio.dll
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.Repositorio\bin\Debug\net8.0\123Vago.Repositorio.pdb
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.Repositorio\bin\Debug\net8.0\123Vago.Dominio.dll
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.Repositorio\bin\Debug\net8.0\123Vago.Dominio.pdb
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.Repositorio\obj\Debug\net8.0\123Vago.Repositorio.csproj.AssemblyReference.cache
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.Repositorio\obj\Debug\net8.0\123Vago.Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.Repositorio\obj\Debug\net8.0\123Vago.Repositorio.AssemblyInfoInputs.cache
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.Repositorio\obj\Debug\net8.0\123Vago.Repositorio.AssemblyInfo.cs
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.Repositorio\obj\Debug\net8.0\123Vago.Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.Repositorio\obj\Debug\net8.0\123Vago..05DF1A6A.Up2Date
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.Repositorio\obj\Debug\net8.0\123Vago.Repositorio.dll
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.Repositorio\obj\Debug\net8.0\refint\123Vago.Repositorio.dll
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.Repositorio\obj\Debug\net8.0\123Vago.Repositorio.pdb
+C:\Users\alex_\Desktop\Projeto_Hotel\123Vago\123Vago.Repositorio\obj\Debug\net8.0\ref\123Vago.Repositorio.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.Repositorio\bin\Debug\net8.0\123Vago.Repositorio.deps.json
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.Repositorio\bin\Debug\net8.0\123Vago.Repositorio.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.Repositorio\bin\Debug\net8.0\123Vago.Repositorio.pdb
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.Repositorio\bin\Debug\net8.0\123Vago.Dominio.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.Repositorio\bin\Debug\net8.0\123Vago.Dominio.pdb
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.Repositorio\obj\Debug\net8.0\123Vago.Repositorio.csproj.AssemblyReference.cache
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.Repositorio\obj\Debug\net8.0\123Vago.Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.Repositorio\obj\Debug\net8.0\123Vago.Repositorio.AssemblyInfoInputs.cache
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.Repositorio\obj\Debug\net8.0\123Vago.Repositorio.AssemblyInfo.cs
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.Repositorio\obj\Debug\net8.0\123Vago.Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.Repositorio\obj\Debug\net8.0\123Vago.Repositorio.sourcelink.json
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.Repositorio\obj\Debug\net8.0\123Vago..05DF1A6A.Up2Date
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.Repositorio\obj\Debug\net8.0\123Vago.Repositorio.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.Repositorio\obj\Debug\net8.0\refint\123Vago.Repositorio.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.Repositorio\obj\Debug\net8.0\123Vago.Repositorio.pdb
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\123Vago.Repositorio\obj\Debug\net8.0\ref\123Vago.Repositorio.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.Repositorio\bin\Debug\net8.0\123Vago.Repositorio.deps.json
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.Repositorio\bin\Debug\net8.0\123Vago.Repositorio.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.Repositorio\bin\Debug\net8.0\123Vago.Repositorio.pdb
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.Repositorio\bin\Debug\net8.0\123Vago.Dominio.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.Repositorio\bin\Debug\net8.0\123Vago.Dominio.pdb
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.Repositorio\obj\Debug\net8.0\123Vago.Repositorio.csproj.AssemblyReference.cache
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.Repositorio\obj\Debug\net8.0\123Vago.Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.Repositorio\obj\Debug\net8.0\123Vago.Repositorio.AssemblyInfoInputs.cache
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.Repositorio\obj\Debug\net8.0\123Vago.Repositorio.AssemblyInfo.cs
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.Repositorio\obj\Debug\net8.0\123Vago.Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.Repositorio\obj\Debug\net8.0\123Vago.Repositorio.sourcelink.json
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.Repositorio\obj\Debug\net8.0\123Vago..05DF1A6A.Up2Date
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.Repositorio\obj\Debug\net8.0\123Vago.Repositorio.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.Repositorio\obj\Debug\net8.0\refint\123Vago.Repositorio.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.Repositorio\obj\Debug\net8.0\123Vago.Repositorio.pdb
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaRegistroHotel\backend\123Vago.Repositorio\obj\Debug\net8.0\ref\123Vago.Repositorio.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.Repositorio\bin\Debug\net8.0\123Vago.Repositorio.deps.json
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.Repositorio\bin\Debug\net8.0\123Vago.Repositorio.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.Repositorio\bin\Debug\net8.0\123Vago.Repositorio.pdb
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.Repositorio\bin\Debug\net8.0\123Vago.Dominio.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.Repositorio\bin\Debug\net8.0\123Vago.Dominio.pdb
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.Repositorio\obj\Debug\net8.0\123Vago.Repositorio.csproj.AssemblyReference.cache
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.Repositorio\obj\Debug\net8.0\123Vago.Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.Repositorio\obj\Debug\net8.0\123Vago.Repositorio.AssemblyInfoInputs.cache
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.Repositorio\obj\Debug\net8.0\123Vago.Repositorio.AssemblyInfo.cs
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.Repositorio\obj\Debug\net8.0\123Vago.Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.Repositorio\obj\Debug\net8.0\123Vago.Repositorio.sourcelink.json
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.Repositorio\obj\Debug\net8.0\123Vago..05DF1A6A.Up2Date
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.Repositorio\obj\Debug\net8.0\123Vago.Repositorio.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.Repositorio\obj\Debug\net8.0\refint\123Vago.Repositorio.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.Repositorio\obj\Debug\net8.0\123Vago.Repositorio.pdb
+C:\Users\jonat\OneDrive\Área de Trabalho\RegHotel\backend\123Vago.Repositorio\obj\Debug\net8.0\ref\123Vago.Repositorio.dll
